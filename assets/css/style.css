@@ -45,12 +45,12 @@ h1 {
   transition: all .5s;
   transform-style: preserve-3d;
 
-  margin: 25px;
-  
-  img{
-    width: 80%;
-    height: 60%;
-  }
+  margin: 25px; 
+}
+
+.card img {
+  width: 80%;
+  height: 60%;  
 }
 
 .card.turned {
